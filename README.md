@@ -1,5 +1,6 @@
 # wordlists
-2 Wordlist + python program. 
+2 Wordlists + python program. 
+
 I built 2 wordlists, using a list of names and a program I wrote in python.
 One is with English names and one with Italian names.  
 How is the wordlist structured?  
