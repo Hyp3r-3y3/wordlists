@@ -13,5 +13,7 @@ Kevin23 (00 to 99),
 Kevin2000 (1950 to 2023).
 All of this is repeated for every single name on the lists. 
 
+Running the .py will output the list in .txt
+
 Make good use of it =)
 ~Hyp3r-3y3
